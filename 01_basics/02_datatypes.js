@@ -20,4 +20,4 @@ let isLoggedIn = false  // boolean datatype
 
 
 // object 
-console.log(typeof null) //type=>object
+console.log(typeof null) //type=>object 
